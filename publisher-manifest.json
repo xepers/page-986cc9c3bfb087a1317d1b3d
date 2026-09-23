@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f69687124e1c720925e46c31",
+  "owner": "xepers",
+  "repo": "page-986cc9c3bfb087a1317d1b3d",
+  "title": "FreeCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "986cc9c3bfb087a1317d1b3d",
+      "a": "FreeCloud",
+      "b": "2027最新官网",
+      "entity": "FreeCloud",
+      "brand": "FreeCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e18fdef0604a3350972af89ef6421ff73ca4bb0ba3181d3be2437074884ad866",
+      "content": {
+        "primary_entity": "FreeCloud",
+        "keyword1": "FreeCloud",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "在常用设备上安装对应客户端，导入订阅后即可选择线路使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好设备与套餐，按客户端文档完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "从合适的套餐开始",
+          "AI_DESCRIPTION": "，FreeCloud 提供按流量与设备数区分的订阅方案，基础版、旗舰版与团队版分别面向个人、多设备用户和小团队。选择时先确认常用设备数量与每月流量需求，再对比线路类型与支持方式，按客户端文档导入订阅就能在电脑、手机或路由器上使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数和节点线路三个角度选择适合的订阅方案。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备，并带IPLC专线优化。",
+          "AI_FEATURE_TEXT_2": "团队版每月1000GB、20台设备，支持企业定制路由，适合多人协作办公场景。",
+          "AI_FEATURE_TEXT_3": "年付方案比月付更省，基础版年付150元，旗舰版年付350元，团队版年付850元。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选版本",
+          "AI_FEATURE_TITLE_2": "团队使用看并发设备",
+          "AI_FEATURE_TITLE_3": "年付更省订阅成本",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的过程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "FreeCloud 提供多种海外加速订阅方案，按流量、设备数量和线路类型区分。基础版适合个人日常使用，旗舰版面向多设备与流媒体需求，团队版为多人协作准备。选择前先确认设备数量与流量需求，再按客户端文档导入订阅。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择加速方案",
+          "AI_HIGHLIGHT_1": "基础版 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备",
+          "AI_PLANS_INTRO": "基础版每月15元含100GB流量，旗舰版每月35元含300GB流量并带IPLC专线，团队版每月85元含1000GB流量并支持定制路由。年付分别为150元、350元和850元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，在基础版、旗舰版与团队版之间选择订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量、流量额度和线路类型，确认满足使用需求。",
+          "AI_STEP_TEXT_3": "在电脑、手机或路由器上安装客户端，按客户端文档导入订阅并选择节点。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "FreeCloud 订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量支持3台设备，旗舰版300GB支持5台设备，团队版1000GB支持20台设备。先统计常用设备数量再结合流量消耗选择即可。",
+          "AI_FAQ_ANSWER_2": "基础版使用普通线路节点池，旗舰版增加 IPLC 专线并针对游戏加速优化，团队版提供 VIP 高带宽节点与定制路由。对流媒体解锁和延迟敏感时优先考虑旗舰版以上。",
+          "AI_FAQ_ANSWER_3": "支持按年付，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比月付更划算，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "根据设备系统在客户端列表中选择对应版本，复制订阅链接后在客户端内导入，按客户端文档完成配置即可连接。",
+          "AI_FAQ_ANSWER_5": "团队版最多支持20台设备同时在线，并提供专属客户经理与企业定制路由，适合小型团队或工作室集中管理。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的设备数量与流量有什么区别？",
+          "AI_FAQ_QUESTION_2": "线路节点在基础版和旗舰版之间有什么差异？",
+          "AI_FAQ_QUESTION_3": "是否支持按年付费？价格如何？",
+          "AI_FAQ_QUESTION_4": "订阅配置需要哪些步骤？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么样的使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "maguaclash.com",
+    "host": "maguaclash.com"
+  },
+  "file_hashes": {
+    "index.html": "991b3ef8749ba390901c36754ba16f45f366b81b72a3d42eec31673290f6c9ce",
+    "sitemap.xml": "065a14fbb7b956b7182a302f396bb549e8b8dd66d514d6caaa8fffb8639e44d1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ff29c137fd8dfefdd654539872c34917d6df58c13360c22e8cffdc1b53d08844",
+    "robots.txt": "85793ba3c6169a4af60fceb654efbabd9239cc101073f9574c16738dc8899ea2",
+    "e0737b650a55ff1b035049c8069b29d1.txt": "ac1f03117657b890ad4ce9dec71c01e00f419d24bfb44366b506068008cdd381"
+  },
+  "revision": "3982e61c337beb531b4d67f66ad260dae6e82bd20760958ece25c491ef95375f"
+}
